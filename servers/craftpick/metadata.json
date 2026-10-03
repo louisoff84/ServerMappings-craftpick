@@ -3,9 +3,9 @@
   "name": "Craftpick",
   "description": "A French Minecraft network focused on competitive minigames and PvP.",
   "addresses": [
-    "craftpick.fr"
+    "play.craftpick.fr"
   ],
-  "primaryAddress": "craftpick.fr",
+  "primaryAddress": "play.craftpick.fr",
   "primaryColor": "#5865F2",
   "secondaryColor": "#8B5CF6",
   "primaryLanguage": "fr",
