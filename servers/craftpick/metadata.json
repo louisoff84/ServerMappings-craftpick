@@ -1,0 +1,30 @@
+{
+  "id": "craftpick",
+  "name": "Craftpick",
+  "description": "A French Minecraft network focused on competitive minigames and PvP.",
+  "addresses": [
+    "craftpick.fr"
+  ],
+  "primaryAddress": "craftpick.fr",
+  "primaryColor": "#5865F2",
+  "secondaryColor": "#8B5CF6",
+  "primaryLanguage": "fr",
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "KitPvP",
+    "Practice",
+    "Survival"
+  ],
+  "primaryGameType": "Minigames",
+  "website": "https://craftpick.fr",
+  "crossplay": false
+}
